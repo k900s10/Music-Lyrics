@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Lyrics</string>
+    <string name="search">Search</string>
+    <string name="searchQueryHint">Tell me a song title!</string>
+    <string name="query_hints">Enter Song Title</string>
+    <string name="song_title">Song Title</string>
+    <string name="query_result_title">Matching titles</string>
+</resources>

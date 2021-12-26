@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@+id/cardViewChartBillboard"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    app:contentPadding="8dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:id="@+id/billboard_rank"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/ic_circle"
+            android:fontFamily="@font/poppins_bold"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="@color/text_color"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/billboard_song"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_toEndOf="@id/billboard_rank"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="Just The Way You Are"
+            android:textColor="@color/text_color"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/billboard_artist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/billboard_song"
+            android:layout_marginStart="15dp"
+            android:layout_toEndOf="@id/billboard_rank"
+            android:fontFamily="@font/poppins_light"
+            android:text="by Bruno Mars"
+            android:textColor="@color/text_color"
+            android:textSize="14sp" />
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

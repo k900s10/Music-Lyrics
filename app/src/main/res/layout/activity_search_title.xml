@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".search_title"
+    android:layout_marginBottom="10dp"
+    android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/queryInput"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="30dp"
+            android:allowUndo="true"
+            android:background="@drawable/custom_search_bar"
+            android:drawableStart="@drawable/custom_search_icon"
+            android:drawablePadding="12dp"
+            android:fontFamily="@font/poppins_medium"
+            android:hint="@string/query_hints"
+            android:inputType="textPersonName"
+            android:paddingStart="12dp"
+            android:paddingEnd="12dp"
+            android:textAlignment="viewStart"
+            android:textSize="16sp"
+            android:layout_below="@id/queryTitle"
+            android:autofillHints="Enter Song Title" />
+
+        <TextView
+            android:id="@+id/queryTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="25dp"
+            android:fontFamily="@font/poppins_reguler"
+            android:text="@string/song_title"
+            android:textSize="12sp"
+            android:textColor="@color/black" />
+
+        <View
+            android:id="@+id/querySearchLineBreak"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/dark_grey"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:visibility="invisible"
+            android:layout_below="@id/queryInput"/>
+
+        <TextView
+            android:id="@+id/resultTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/poppins_medium"
+            android:text="@string/query_result_title"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.023"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_below="@id/querySearchLineBreak"
+            android:visibility="invisible"/>
+
+
+    <View
+        android:id="@+id/queryResultLineBreak"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/backgroundActivity"
+        android:visibility="invisible"
+        android:layout_below="@id/resultTitle"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/queryResultRecycleView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_below="@id/queryResultLineBreak"/>
+
+
+</RelativeLayout>

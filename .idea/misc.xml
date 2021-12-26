@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/custom_search_bar.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/custom_search_focus_icon.xml" value="1.596875" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2175925925925926" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_blue.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_green.xml" value="0.14322916666666666" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_grey.xml" value="0.14322916666666666" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_grey_shimmer.xml" value="0.16354166666666667" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_orange.xml" value="0.14322916666666666" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_pink.xml" value="0.14322916666666666" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_purple.xml" value="0.14322916666666666" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_red.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_teal.xml" value="0.14322916666666666" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_circle_yellow.xml" value="0.14322916666666666" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_homescreen_black.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_search.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/drawable/ic_search_grey.xml" value="0.2175925925925926" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/font/poppins_light.xml" value="0.28020833333333334" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/font/poppins_medium.xml" value="0.28020833333333334" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/font/poppins_reguler.xml" value="0.28020833333333334" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/font/poppins_semibold.xml" value="0.28020833333333334" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/layout/activity_lyric.xml" value="0.264" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/layout/activity_search_title.xml" value="0.264" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/layout/list_chart_billboard.xml" value="0.4" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/layout/list_query_titles.xml" value="0.264" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/layout/placeholder_shimmer_activity_lyric.xml" value="0.25" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/layout/placeholder_shimmer_activity_main.xml" value="0.264" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/layout/toolbar.xml" value="0.264" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/menu/lyric_menu.xml" value="0.25" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/AndroidStudioProjects/TheLyrics/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
