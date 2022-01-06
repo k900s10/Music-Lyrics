@@ -4,9 +4,9 @@
 Find the weekly top music chart and look for their lyrics for Android Marsmellow(6.0) and above.
 
 ## Preview
-![Music_Lyrics_index](https://user-images.githubusercontent.com/60184727/148392645-cad58931-2f80-4acb-a8fa-12559a04c4df.jpg)
-![Music_Lyrics_lyrics](https://user-images.githubusercontent.com/60184727/148392654-1e1d64c3-72a6-49e1-ac43-a4625aae2bdb.jpg)
-![Music_Lyrics_search](https://user-images.githubusercontent.com/60184727/148392659-7553d240-d0fd-45a6-9d82-c87c38ffdae3.jpg)
+<img src="https://user-images.githubusercontent.com/60184727/148392645-cad58931-2f80-4acb-a8fa-12559a04c4df.jpg" width="32%"/>
+<img src="https://user-images.githubusercontent.com/60184727/148392654-1e1d64c3-72a6-49e1-ac43-a4625aae2bdb.jpg" width="32%"/>
+<img src="https://user-images.githubusercontent.com/60184727/148392659-7553d240-d0fd-45a6-9d82-c87c38ffdae3.jpg" width="32%"/>
 
 ## License
 
