@@ -1,13 +1,12 @@
 # The Lyrics
 <img src='https://bettercodehub.com/edge/badge/k900s10/The-Lyrics?branch=master'>
 
-An Android application showing the current top song titles with their lyrics.
-
+Find the weekly top music chart and look for their lyrics for Android Marsmellow(6.0) and above.
 
 ## Preview
-
-https://user-images.githubusercontent.com/60184727/148389447-dea69ea3-5771-4b26-9436-f9c851ac1189.gif
-
+![Music_Lyrics_index](https://user-images.githubusercontent.com/60184727/148392645-cad58931-2f80-4acb-a8fa-12559a04c4df.jpg)
+![Music_Lyrics_lyrics](https://user-images.githubusercontent.com/60184727/148392654-1e1d64c3-72a6-49e1-ac43-a4625aae2bdb.jpg)
+![Music_Lyrics_search](https://user-images.githubusercontent.com/60184727/148392659-7553d240-d0fd-45a6-9d82-c87c38ffdae3.jpg)
 
 ## License
 
