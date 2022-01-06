@@ -1,7 +1,7 @@
 # The Lyrics
 <img src='https://bettercodehub.com/edge/badge/k900s10/The-Lyrics?branch=master'>
 
-Find the weekly top music chart and look for their lyrics for Android Marsmellow(6.0) and above.
+Find the weekly top music chart and look for their lyrics. For Android Marsmellow(6.0) and above.
 
 ## Preview
 <p>
