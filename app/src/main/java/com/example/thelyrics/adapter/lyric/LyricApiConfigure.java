@@ -41,7 +41,11 @@ public class LyricApiConfigure {
                     } catch (JSONException e) {
                         e.printStackTrace();
                     }
-                    }, Throwable::printStackTrace
+                    }, error -> {
+                        lyricPlaceholder.setText("Sorry... we currently don't have the lyrics of this song.");
+                        shimmerFrameLayout.stopShimmer();
+                        shimmerFrameLayout.setVisibility(View.GONE);
+                    }
             );
 
         requestQueue.add(jsonObjectRequest);

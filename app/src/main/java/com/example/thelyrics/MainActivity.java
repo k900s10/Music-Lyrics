@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
         searchBar.setOnMenuItemClickListener(v -> {
             Intent intent = new Intent(this, search_title.class);
             startActivity(intent);
-            finish();
             return false;
         });
 
