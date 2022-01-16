@@ -1,4 +1,4 @@
-# The Lyrics
+# Music Lyrics
 <img src='https://bettercodehub.com/edge/badge/k900s10/The-Lyrics?branch=master'>
 
 Find the weekly top music chart and look for their lyrics. For Android Marsmellow(6.0) and above.
